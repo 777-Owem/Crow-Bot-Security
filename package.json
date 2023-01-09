@@ -1,7 +1,7 @@
 {
-  "name": "yoko-perso-main",
+  "name": "RoadRider's bot security",
   "version": "1.0.0",
-  "description": "Commencer par ouvrir un terminal de commande et faites la comamnde: npm i",
+  "description": "N'oubliez pas de faire NPM I + le module manquant",
   "main": "index.js",
   "dependencies": {
     "axios": "^1.2.0",
