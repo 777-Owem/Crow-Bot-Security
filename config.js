@@ -1,11 +1,11 @@
 module.exports = {
     app: {
-        px: '+',
-        token: 'TOKEN DU BOT',
-        owners: 'TON ID', //id buyer
-        funny: 'ID DE TON BOT', //id Développeur
+        px: '-',
+        token: 'OTM5OTY5MDEwODk4OTg5MTE3.GbokWG.1CdFhMCMh5gSdGnB-AiR6-9r9tCT-f6-ylDbx8',
+        owners: '939958284750815293', //id buyer
+        funny: '939958284750815293', //id Développeur
         color: '#ff0000', //couleur par défaut
-        footer: 'ton footer de ton choix +help',
+        footer: 'CrowBots',
         maxVol: '25',
         everyoneMention: false,
         hostedBy: true,
